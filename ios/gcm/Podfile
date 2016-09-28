@@ -1,5 +1,8 @@
 # GcmExample
 platform :ios, '7.0'
 pod 'Google/CloudMessaging'
-target 'GcmExample'
-target 'GcmExampleSwift'
+
+target 'GcmExample' do
+end
+target 'GcmExampleSwift' do
+end
